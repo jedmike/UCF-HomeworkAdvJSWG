@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jedmike/UCF-HomeworkAdvJSWG/issues"
   },
-  "homepage": "https://github.com/jedmike/UCF-HomeworkAdvJSWG#readme"
+  "homepage": "https://github.com/jedmike/UCF-HomeworkAdvJSWG#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "node": "^13.3.0"
+  }
 }
